@@ -2,6 +2,8 @@
 
 I picked this question because it qualifies as an opinion question. I chose a bar chart because it effectively displays the different responses to the question "Is it rude to recline your seat on a plane?" along with the count of respondents for each response category.
 
+![Flight Etiquette Data](https://github.com/mingshuci/Plane/blob/main/Copy%20of%20Flying%20etiquette%20-%20Pivot%20Table%201.csv)
+
 # H2
 
 The chart shows the distribution of opinions among respondents regarding the etiquette of reclining seats on a plane. It reveals that a majority of respondents do not find it rude at all to recline their seats, while a smaller portion finds it somewhat or very rude. This visualization helps in understanding the general sentiment and the extent of agreement or disagreement on this topic.
